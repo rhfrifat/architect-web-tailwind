@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon {
+    @apply w-8 h-auto ;
+}
+.flexCenter {
+    @apply flex justify-center items-center flex-col text-center;
+}
+.secondaryText {
+    @apply sm:text-3xl font-semibold text-2xl;
+}
+p{
+    @apply font-normal text-midGray;
+}
+h4 {
+    @apply font-semibold text-lg md:text-xl;
+}
+h5{
+    @apply font-semibold text-lg md:text-md;
+}
