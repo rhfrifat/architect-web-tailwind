@@ -724,15 +724,15 @@ video {
 }
 
 .bg-hero {
-  background-image: url('/images/Asset\ 10.webp');
+  background-image: url('images/Asset 10.webp');
 }
 
 .bg-blue {
-  background-image: url('/images/Asset\ 11.webp');
+  background-image: url('images/Asset 11.webp');
 }
 
 .bg-dark {
-  background-image: url('/images/Asset\ 7.webp');
+  background-image: url('images/Asset 7.webp');
 }
 
 .bg-cover {
